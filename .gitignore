@@ -2,4 +2,5 @@
 *.classpath
 bin/
 .settings/
+.idea/
 
